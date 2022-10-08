@@ -1,0 +1,16 @@
+bin\Debug\Hard Lock.exe
+bin\Debug\Hard Lock.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\Hard_Lock.frmMain.resources
+obj\Debug\Hard_Lock.Properties.Resources.resources
+obj\Debug\Hard Lock.csproj.GenerateResource.Cache
+obj\Debug\Hard Lock.exe
+obj\Debug\Hard Lock.pdb
+bin\Release\Hard Lock.exe
+bin\Release\Hard Lock.pdb
+obj\Release\ResolveAssemblyReference.cache
+obj\Release\Hard_Lock.frmMain.resources
+obj\Release\Hard_Lock.Properties.Resources.resources
+obj\Release\Hard Lock.csproj.GenerateResource.Cache
+obj\Release\Hard Lock.exe
+obj\Release\Hard Lock.pdb

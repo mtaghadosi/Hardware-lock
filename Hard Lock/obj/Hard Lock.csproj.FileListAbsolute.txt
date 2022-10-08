@@ -1,0 +1,16 @@
+E:\Working Area\Working\Corporation Files\Hard Lock\Hard Lock\bin\Release\Hard Lock.exe
+E:\Working Area\Working\Corporation Files\Hard Lock\Hard Lock\bin\Release\Hard Lock.pdb
+E:\Working Area\Working\Corporation Files\Hard Lock\Hard Lock\obj\Release\ResolveAssemblyReference.cache
+E:\Working Area\Working\Corporation Files\Hard Lock\Hard Lock\obj\Release\Hard_Lock.frmMain.resources
+E:\Working Area\Working\Corporation Files\Hard Lock\Hard Lock\obj\Release\Hard_Lock.Properties.Resources.resources
+E:\Working Area\Working\Corporation Files\Hard Lock\Hard Lock\obj\Release\Hard Lock.csproj.GenerateResource.Cache
+E:\Working Area\Working\Corporation Files\Hard Lock\Hard Lock\obj\Release\Hard Lock.exe
+E:\Working Area\Working\Corporation Files\Hard Lock\Hard Lock\obj\Release\Hard Lock.pdb
+E:\Working Area\Working\Corporation Files\Hard Lock\Hard Lock\bin\Debug\Hard Lock.exe
+E:\Working Area\Working\Corporation Files\Hard Lock\Hard Lock\bin\Debug\Hard Lock.pdb
+E:\Working Area\Working\Corporation Files\Hard Lock\Hard Lock\obj\Debug\ResolveAssemblyReference.cache
+E:\Working Area\Working\Corporation Files\Hard Lock\Hard Lock\obj\Debug\Hard_Lock.frmMain.resources
+E:\Working Area\Working\Corporation Files\Hard Lock\Hard Lock\obj\Debug\Hard_Lock.Properties.Resources.resources
+E:\Working Area\Working\Corporation Files\Hard Lock\Hard Lock\obj\Debug\Hard Lock.csproj.GenerateResource.Cache
+E:\Working Area\Working\Corporation Files\Hard Lock\Hard Lock\obj\Debug\Hard Lock.exe
+E:\Working Area\Working\Corporation Files\Hard Lock\Hard Lock\obj\Debug\Hard Lock.pdb

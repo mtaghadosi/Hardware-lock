@@ -1,0 +1,9 @@
+G:\Working And Private Area\My Programs\Software Lock\Hard Lock\obj\Debug\Hard Lock.exe
+G:\Working And Private Area\My Programs\Software Lock\Hard Lock\obj\Debug\Hard Lock.pdb
+G:\Working And Private Area\My Programs\Software Lock\Hard Lock\bin\Debug\Hard Lock.exe
+G:\Working And Private Area\My Programs\Software Lock\Hard Lock\bin\Debug\Hard Lock.pdb
+G:\Working And Private Area\My Programs\Software Lock\Hard Lock\obj\Debug\ResolveAssemblyReference.cache
+G:\Working And Private Area\My Programs\Software Lock\Hard Lock\obj\Debug\Hard_Lock.frmMain.resources
+G:\Working And Private Area\My Programs\Software Lock\Hard Lock\obj\Debug\Hard_Lock.Properties.Resources.resources
+G:\Working And Private Area\My Programs\Software Lock\Hard Lock\obj\Debug\GenerateResource-ResGen.read.1.tlog
+G:\Working And Private Area\My Programs\Software Lock\Hard Lock\obj\Debug\GenerateResource-ResGen.write.1.tlog
